@@ -1,0 +1,24 @@
+{
+  "name": "ditsly/dits-sms-api",
+  "description": "DITS SMS API is build for DITS SMS - Bulk SMS Application For Marketing",
+  "type": "library",
+  "license": "MIT",
+  "version": "2.7.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Dimensions Tech",
+      "email": "info@dits.ly"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "ext-curl": "*"
+  }
+}
+
