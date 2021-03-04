@@ -15,8 +15,7 @@ DITS SMS - Bulk SMS Application For Markting
 ### Installing
 Via Composer
 ```
-composer require dits/dits-sms-api 
-```
+composer require ditsly/dits-sms-api```
 
 And Via Bash
 
