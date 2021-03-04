@@ -16,7 +16,6 @@ DITS SMS - Bulk SMS Application For Markting
 Via Composer
 ```
 composer require ditsly/dits-sms-api
-
 ```
 
 And Via Bash
